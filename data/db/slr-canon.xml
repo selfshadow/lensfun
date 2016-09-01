@@ -2105,8 +2105,8 @@
     <lens>
         <maker>Canon</maker>
         <model>Canon EF 70-200mm f/2.8L IS USM + EF 1.4x extender</model>
-        <model lang="en">Canon EF 70-200mm f/2.8L IS USM + EF 1.4× ext.</model>
-        <model lang="de">Canon EF 70-200mm f/2.8L IS USM + EF 1,4×-Konv.</model>
+        <model lang="en">Canon EF 70-200mm f/2.8L IS USM + EF 1.4x ext.</model>
+        <model lang="de">Canon EF 70-200mm f/2.8L IS USM + EF 1,4x-Konv.</model>
         <mount>Canon EF</mount>
         <cropfactor>1</cropfactor>
         <calibration>
@@ -2294,8 +2294,8 @@
     <lens>
         <maker>Canon</maker>
         <model>Canon EF 70-200mm f/4L USM + EF 1.4x extender</model>
-        <model lang="en">Canon EF 70-200mm f/4L USM + EF 1.4× ext.</model>
-        <model lang="de">Canon EF 70-200mm f/4L USM + EF 1,4×-Konv.</model>
+        <model lang="en">Canon EF 70-200mm f/4L USM + EF 1.4x ext.</model>
+        <model lang="de">Canon EF 70-200mm f/4L USM + EF 1,4x-Konv.</model>
         <mount>Canon EF</mount>
         <cropfactor>1</cropfactor>
         <calibration>
@@ -4596,8 +4596,8 @@
     <lens>
         <maker>Canon</maker>
         <model>Canon EF 400mm f/5.6L USM + 1.4x extender</model>
-        <model lang="en">Canon EF 400mm f/5.6L USM + EF 1.4× ext.</model>
-        <model lang="de">Canon EF 400mm f/5.6L USM + EF 1,4×-Konv.</model>
+        <model lang="en">Canon EF 400mm f/5.6L USM + EF 1.4x ext.</model>
+        <model lang="de">Canon EF 400mm f/5.6L USM + EF 1,4x-Konv.</model>
         <mount>Canon EF</mount>
         <cropfactor>1.005</cropfactor>
         <calibration>
@@ -4634,8 +4634,8 @@
     <lens>
         <maker>Canon</maker>
         <model>Canon EF 300mm f/2.8L IS II USM + EF 1.4x extender III</model>
-        <model lang="en">Canon EF 300mm f/2.8L IS II USM + EF 1.4× ext. III</model>
-        <model lang="de">Canon EF 300mm f/2.8L IS II USM + EF 1,4×-Konv. III</model>
+        <model lang="en">Canon EF 300mm f/2.8L IS II USM + EF 1.4x ext. III</model>
+        <model lang="de">Canon EF 300mm f/2.8L IS II USM + EF 1,4x-Konv. III</model>
         <mount>Canon EF</mount>
         <cropfactor>1</cropfactor>
         <calibration>
@@ -4648,8 +4648,8 @@
     <lens>
         <maker>Canon</maker>
         <model>Canon EF 300mm f/2.8L IS II USM + EF 1.4x extender III</model>
-        <model lang="en">Canon EF 300mm f/2.8L IS II USM + EF 1.4× ext. III</model>
-        <model lang="de">Canon EF 300mm f/2.8L IS II USM + EF 1,4×-Konv. III</model>
+        <model lang="en">Canon EF 300mm f/2.8L IS II USM + EF 1.4x ext. III</model>
+        <model lang="de">Canon EF 300mm f/2.8L IS II USM + EF 1,4x-Konv. III</model>
         <mount>Canon EF</mount>
         <cropfactor>1.6</cropfactor>
         <calibration>
@@ -4662,8 +4662,8 @@
     <lens>
         <maker>Canon</maker>
         <model>Canon EF 300mm f/2.8L IS II USM + EF 2.0x extender III</model>
-        <model lang="en">Canon EF 300mm f/2.8L IS II USM + EF 2.0× ext. III</model>
-        <model lang="de">Canon EF 300mm f/2.8L IS II USM + EF 2,0×-Konv. III</model>
+        <model lang="en">Canon EF 300mm f/2.8L IS II USM + EF 2.0x ext. III</model>
+        <model lang="de">Canon EF 300mm f/2.8L IS II USM + EF 2,0x-Konv. III</model>
         <mount>Canon EF</mount>
         <cropfactor>1</cropfactor>
         <calibration>
@@ -4676,8 +4676,8 @@
     <lens>
         <maker>Canon</maker>
         <model>Canon EF 300mm f/2.8L IS II USM + EF 2.0x extender III</model>
-        <model lang="en">Canon EF 300mm f/2.8L IS II USM + EF 2.0× ext. III</model>
-        <model lang="de">Canon EF 300mm f/2.8L IS II USM + EF 2,0×-Konv. III</model>
+        <model lang="en">Canon EF 300mm f/2.8L IS II USM + EF 2.0x ext. III</model>
+        <model lang="de">Canon EF 300mm f/2.8L IS II USM + EF 2,0x-Konv. III</model>
         <mount>Canon EF</mount>
         <cropfactor>1.6</cropfactor>
         <calibration>
@@ -4702,8 +4702,8 @@
     <lens>
         <maker>Canon</maker>
         <model>Canon EF 300mm f/4L IS USM + 1.4x extender</model>
-        <model lang="en">Canon EF 300mm f/4L IS USM + 1.4× ext.</model>
-        <model lang="de">Canon EF 300mm f/4L IS USM + 1.4×-Konv.</model>
+        <model lang="en">Canon EF 300mm f/4L IS USM + 1.4x ext.</model>
+        <model lang="de">Canon EF 300mm f/4L IS USM + 1.4x-Konv.</model>
         <mount>Canon EF</mount>
         <cropfactor>1.605</cropfactor>
         <calibration>
@@ -4740,8 +4740,8 @@
     <lens>
         <maker>Canon</maker>
         <model>Canon EF 500mm f/4L IS II USM + EF 1.4x extender III</model>
-        <model lang="en">Canon EF 500mm f/4L IS II USM + EF 1.4× ext. III</model>
-        <model lang="de">Canon EF 500mm f/4L IS II USM + EF 1.4×-Konv. III</model>
+        <model lang="en">Canon EF 500mm f/4L IS II USM + EF 1.4x ext. III</model>
+        <model lang="de">Canon EF 500mm f/4L IS II USM + EF 1.4x-Konv. III</model>
         <mount>Canon EF</mount>
         <cropfactor>1</cropfactor>
         <calibration>
@@ -4754,8 +4754,8 @@
     <lens>
         <maker>Canon</maker>
         <model>Canon EF 500mm f/4L IS II USM + EF 1.4x extender III</model>
-        <model lang="en">Canon EF 500mm f/4L IS II USM + EF 1.4× ext. III</model>
-        <model lang="de">Canon EF 500mm f/4L IS II USM + EF 1.4×-Konv. III</model>
+        <model lang="en">Canon EF 500mm f/4L IS II USM + EF 1.4x ext. III</model>
+        <model lang="de">Canon EF 500mm f/4L IS II USM + EF 1.4x-Konv. III</model>
         <mount>Canon EF</mount>
         <cropfactor>1.6</cropfactor>
         <calibration>
@@ -4768,8 +4768,8 @@
     <lens>
         <maker>Canon</maker>
         <model>Canon EF 500mm f/4L IS II USM + EF 2.0x extender III</model>
-        <model lang="en">Canon EF 500mm f/4L IS II USM + EF 2.0× ext. III</model>
-        <model lang="de">Canon EF 500mm f/4L IS II USM + EF 2.0×-Konv. III</model>
+        <model lang="en">Canon EF 500mm f/4L IS II USM + EF 2.0x ext. III</model>
+        <model lang="de">Canon EF 500mm f/4L IS II USM + EF 2.0x-Konv. III</model>
         <mount>Canon EF</mount>
         <cropfactor>1</cropfactor>
         <calibration>
@@ -4782,8 +4782,8 @@
     <lens>
         <maker>Canon</maker>
         <model>Canon EF 500mm f/4L IS II USM + EF 2.0x extender III</model>
-        <model lang="en">Canon EF 500mm f/4L IS II USM + EF 2.0× ext. III</model>
-        <model lang="de">Canon EF 500mm f/4L IS II USM + EF 2.0×-Konv. III</model>
+        <model lang="en">Canon EF 500mm f/4L IS II USM + EF 2.0x ext. III</model>
+        <model lang="de">Canon EF 500mm f/4L IS II USM + EF 2.0x-Konv. III</model>
         <mount>Canon EF</mount>
         <cropfactor>1.6</cropfactor>
         <calibration>

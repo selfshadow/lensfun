@@ -14,7 +14,6 @@
         <maker>Olympus Imaging Corp.</maker>
         <maker lang="en">Olympus</maker>
         <model>u-miniD,Stylus V</model>
-        <model lang="en">µ-mini Digital</model>
         <mount>olympusStylusV</mount>
         <cropfactor>6.0</cropfactor>
     </camera>
@@ -175,7 +174,6 @@
     <camera>
         <maker>Olympus</maker>
         <model>mju-II</model>
-        <model lang="en">µ-II</model>
         <mount>olympusEpic</mount>
         <cropfactor>1</cropfactor>
     </camera>
