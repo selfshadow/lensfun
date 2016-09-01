@@ -11,7 +11,7 @@ char *_lf_get_database_dir ()
 {
     static gchar *dir = NULL;
 
-    HMODULE h = GetModuleHandle ("liblensfun.dll");
+    HMODULE h = GetModuleHandle ("lensfun.dll");
     if (!h)
         return g_strdup ("");
 
