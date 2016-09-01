@@ -1,6 +1,13 @@
 # require at least cmake 2.8
 CMAKE_MINIMUM_REQUIRED(VERSION 2.8 FATAL_ERROR )
 
+# glib2
+set(GLIB2_BASE_DIR ${CMAKE_SOURCE_DIR}/external/glib)
+set(GLIB2_DLL ${CMAKE_SOURCE_DIR}/external/glib/bin/glib-2-vs10.dll)
+set(GLIB2_GLIB2CONFIG_INCLUDE_PATH ${CMAKE_SOURCE_DIR}/external/glib/include/glib)
+set(GLIB2_INCLUDE_DIRS ${CMAKE_SOURCE_DIR}/external/glib/include)
+set(GLIB2_LIBRARIES ${CMAKE_SOURCE_DIR}/external/glib/lib/glib-2.0.lib)
+
 # path for helper modules
 set(CMAKE_MODULE_PATH "${CMAKE_MODULE_PATH}" "${CMAKE_SOURCE_DIR}/cmake/modules")
 GET_FILENAME_COMPONENT(SOURCE_BASE_DIR ${CMAKE_SOURCE_DIR} PATH CACHE)
